@@ -52,7 +52,6 @@ examples of output below.
 Please enter the name: Ginny
 Ginny scored 85
 ```
-### >>>
 
 6. Finally, extend your program so the user can keep looking up student scores until
     he/she enters the single character ‘q’ to quit the program.
