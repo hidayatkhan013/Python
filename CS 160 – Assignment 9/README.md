@@ -59,13 +59,13 @@ Ginny scored 85
 
 ## Examples of output
 
-Please enter the name: Ginny
-Ginny scored 85
-Please enter the name: Susan
-Susan scored 89
-Please enter the name: Jim
-Jim scored 88
-Please enter the name: q
+Please enter the name: Ginny  
+Ginny scored 85  
+Please enter the name: Susan  
+Susan scored 89  
+Please enter the name: Jim  
+Jim scored 88  
+Please enter the name: q  
 
 
 
