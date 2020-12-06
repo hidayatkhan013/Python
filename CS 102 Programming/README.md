@@ -1,7 +1,7 @@
 ## Solution Attached thumbs up ! 
 ## Question # 1:
 **Create a function named convertOctalthat should take a decimal number input from user and
-convert it into octal.**
+convert it into octal.**  
 Note: No output formatting should be used. /
 Input: /
 372 /
