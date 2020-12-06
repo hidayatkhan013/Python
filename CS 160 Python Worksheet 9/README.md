@@ -40,12 +40,8 @@ examples of output below.
 ['Marga F CC 95', 'Alex M CC 86', 'Tony M UN 99', 'Mona F UN
 88', 'Emily F CC 95', 'Mark M UN 88', 'Bill M UN 75', 'Anna F CC
 99', 'Ben M CC 66']
-1 : Marga F CC 95
-2 : Alex M CC 86
-
-
-## References:
-
+- 1 : Marga F CC 95
+- 2 : Alex M CC 86
 - 3 : Tony M UN
 - 4 : Mona F UN
 - 5 : Emily F CC
@@ -53,11 +49,11 @@ examples of output below.
 - 7 : Bill M UN
 - 8 : Anna F CC
 - 9 : Ben M CC
-- Male count = 5
-- Female count = 4
-- Male average = 82.8
-- Female average = 94.25
-- Class average = 87.89
+Male count = 5  
+Female count = 4  
+Male average = 82.8  
+Female average = 94.25  
+Class average = 87.89  
 
 
 
