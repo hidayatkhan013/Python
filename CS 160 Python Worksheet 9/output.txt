@@ -1,0 +1,5 @@
+Male count = 5
+Female count = 7
+Male average = 74.4
+Female average = 69.86
+Class average = 71.75
