@@ -53,20 +53,11 @@ examples of output below.
 - 7 : Bill M UN
 - 8 : Anna F CC
 - 9 : Ben M CC
-- Male count =
-- Female count =
-- Male average = 82.
-- Female average = 94.
-- Class average = 87.
-- ● 1.6 Variables and Assignment page Refer to this pdf file (link ​here​) sections:
-- ● 1.9.4 Program Documentation String page
-- ● 3.1.5 Multiple Tests and ​if-elif​ statements page ● 1.10 Input/output page 23.
-- ● 3.3.1 Simple while Loops page
-- ● 1.13.5 Simple Repeat Loop (for loops) page
-- ● 2.1.2 String Indices page
-- ● 2.1.3 String Slices (the split function) page
-- ● 1.13.2 The list Type page
-- ● 2.5.1 Writing Files page
-- ● 2.5.1 Reading Files page
+- Male count = 5
+- Female count = 4
+- Male average = 82.8
+- Female average = 94.25
+- Class average = 87.89
+
 
 
