@@ -2,14 +2,14 @@
 ## Question # 1:
 **Create a function named convertOctalthat should take a decimal number input from user and
 convert it into octal.**
-Note: No output formatting should be used./
-Input:/
-372/
-Output:/
-Number in Octal: 564/
+Note: No output formatting should be used. /
+Input: /
+372 /
+Output: /
+Number in Octal: 564 /
 
 ## Question # 2:
-** Take an input from a user that consists of numbers, letters (both upper case and lower case
+**Take an input from a user that consists of numbers, letters (both upper case and lower case
 letters), and symbols (@,#,$,^,&,*,%, etc.).
 Create a function checkString() that counts the number of upper case letters, lower case letter,
 symbols and numbers and prints them accordingly. **/
